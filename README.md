@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Disha Gaikwad</h1>
-<h3 align="center">💻 Aspiring Full-Stack Developer | Computer Engineering Student 🌷</h3>
+<h3 align="center">💻 Aspiring Full-Stack Developer | Computer Engineering Student </h3>
 
 ---
 
 ### 🪷 About Me  
-🌸 Passionate about building **beautiful, user-friendly web apps**   
+ Passionate about building beautiful, user-friendly web apps   
 ---
 
 ### 🛠️ Tech Stack  
